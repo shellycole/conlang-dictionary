@@ -1,0 +1,17 @@
+Where I'm at:
+
+1) need to create translation page
+
+2) need to add in ability to upload your own font + stylesheet for custom alphabet usage
+
+3) Consider adding field to name the language (and make the name the table name) so you can create/track multiple languages in a single database.
+
+4) Make PHP import file for base English words.
+
+
+Uses:
+jQuery 2.2.3 (https://developers.google.com/speed/libraries/) - via google hosted libraries
+Bootstrap 3.3.6 (http://getbootstrap.com/) - via cdn
+DataTables plugin for bootstrap (https://datatables.net/) - via cdn
+MySQL Crud (https://github.com/rorystandley/MySQL-CRUD-PHP-OOP) - via github
+FontAwesome Icons 4.6.3 (http://fontawesome.io/)  - via cdn
